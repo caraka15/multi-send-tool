@@ -1,4 +1,6 @@
-# Alat Distribusi MultiSend Token & ETH
+# BOT MultiSend Token & ETH
+
+[ENGLISH VERSION](https://github.com/caraka15/multi-send-tool/blob/main/eng_README.md)
 
 ## Gambaran Umum
 
